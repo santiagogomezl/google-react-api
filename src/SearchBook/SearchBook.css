@@ -1,0 +1,8 @@
+.search-book-form fieldset{
+    border: none;
+}
+
+.search-book-filters{
+    display: flex;
+    justify-content: space-evenly;
+}
